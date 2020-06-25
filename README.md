@@ -12,14 +12,14 @@ The code is currently not in a working state. You'll need to setup your envirome
 
 Create a new compoent with a text input field and add that component to the main page.
 
-### 3. Data entry
+## 3. Data entry
 
 Display the input from the text field in your new component as text on the page.
 
-### 4. Style it
+## 4. Style it
 
 Add some styles to the page to make everything centered and also make the logo display half it's normal size when viewed on a mobile device.
 
-### 4. Write a test
+## 4. Write a test
 
 Write a test to make sure that your text input component displays correctly.
