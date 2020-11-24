@@ -7,7 +7,7 @@ const App = () => {
       <img src={logo} alt="logo" />
     </div>
     <div>
-      <p>Welcome to Fanbank</p>
+      <p>Welcome to Plink</p>
     </div>
   );
 };
