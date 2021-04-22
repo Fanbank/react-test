@@ -1,4 +1,4 @@
-# Fanbank React Coding Test
+# Plink React Coding Test
 
 You'll need to clone this repo locally so that you and your future teammates can work through some issues and make improvements to the code together.
 
