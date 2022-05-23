@@ -1,7 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
+import { Input } from "./components/Input";
 import logo from "./logo.png";
 
 const App = () => {
+  const [message, setMessage] = useState("");
+
   return (
     <>
       <div>
@@ -9,6 +12,7 @@ const App = () => {
       </div>
       <div>
         <p>Welcome to Plink</p>
+        <Input value={message} onChange={(e) => setMessage(e.target.value)} />
       </div>
     </>
   );
