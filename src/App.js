@@ -3,12 +3,14 @@ import logo from "./logo.png";
 
 const App = () => {
   return (
-    <div>
-      <img src={logo} alt="logo" />
-    </div>
-    <div>
-      <p>Welcome to Plink</p>
-    </div>
+    <>
+      <div>
+        <img src={logo} alt="logo" />
+      </div>
+      <div>
+        <p>Welcome to Plink</p>
+      </div>
+    </>
   );
 };
 
