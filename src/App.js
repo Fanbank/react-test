@@ -12,6 +12,7 @@ const App = () => {
       </div>
       <div>
         <p>Welcome to Plink</p>
+        <p>Message: {message}</p>
         <Input value={message} onChange={(e) => setMessage(e.target.value)} />
       </div>
     </>
